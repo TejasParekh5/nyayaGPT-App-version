@@ -24,3 +24,4 @@ const Card = ({ children, className, onClick }: CardProps) => {
 };
 
 export default Card;
+
